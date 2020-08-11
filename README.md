@@ -1,2 +1,2 @@
 # Google-Images-scraping-tool
-The following code uses the fast.ai library to scrape images from a google image search
+The following is a tutorial to scrape images from a google image search. It uses the fast.ai library. 
